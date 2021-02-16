@@ -1,0 +1,2 @@
+# NTTDataTraining
+For learning purpose
